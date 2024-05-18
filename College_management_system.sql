@@ -1,5 +1,4 @@
-CREATE DATABASE library_database;
-USE library_database;
+
 
 CREATE TABLE student(
      stu_id INT PRIMARY KEY,
