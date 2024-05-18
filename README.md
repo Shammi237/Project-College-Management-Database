@@ -11,3 +11,8 @@ Data is inserted into the tables to simulate a library environment. This include
 
 Functionalities: 
 The database seems to support functionalities like issuing books to students, managing user roles and permissions, and tracking book details.
+
+
+Contributors:
+Shammi Akter(222-115-237)
+Md.Akhtar uz zaman(222-115-211)
